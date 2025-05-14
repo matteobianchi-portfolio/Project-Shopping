@@ -1,4 +1,4 @@
-# Project-Shopping
+# Shopping Project
 I attended a 240-hour Data Science and AI Academy between March and April. This is my first script after completing the course.
 
 # Python Version: 
